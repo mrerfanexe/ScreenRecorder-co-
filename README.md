@@ -11,3 +11,6 @@ then install (pyautogui) , (numpy) , (open-cv)
 
 after install all this run the program if you puase the program your file is compelet and saved in Desktop
 
+
+
+: ) mrexe
